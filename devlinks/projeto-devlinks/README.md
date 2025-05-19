@@ -4,7 +4,7 @@ Este é um projeto simples e responsivo de uma **página de links pessoais**, de
 
 ## 💻 Demonstração
 
-![Preview do projeto]
+[Preview do projeto]
 
 ![devlinks1](https://github.com/user-attachments/assets/ad07957e-205e-45e5-9173-e2209f90e581)
 ![devlinks](https://github.com/user-attachments/assets/9d370949-ea2a-47d4-96e6-48944f2189a9)
